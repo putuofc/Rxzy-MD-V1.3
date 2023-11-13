@@ -1,7 +1,7 @@
 # Rules 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents) 
 <p align="center">
-  <img src="https://i.ibb.co/CnxQydQ/Project-A64497-D-1.png" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
+  <img src="https://img.youtube.com/vi/978iVDBnsVw/mqdefault.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 <p align="center">
   <a href="https://github.com/AdrianTzy/Rxzy-MD-V1.3">
